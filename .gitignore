@@ -1,3 +1,15 @@
-.DS_Store
-.env
+
 *.log
+
+# macOS
+.DS_Store
+
+# Environment variables
+.env
+
+# Raw data
+data/*.xlsx
+
+# Python cache
+__pycache__/
+*.pyc
