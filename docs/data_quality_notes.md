@@ -13,7 +13,7 @@ ONLINE RETAIL II - DATA QUALITY REPORT
 - Number of rows: 1067371
 - Number of columns: 8 
 - Missing CustomerID: 243007
-- Duplicate rows: 6865
+- Duplicate rows: 12,133
 - Cancellation rows: 10206
 - Negative quantity rows: 12326
 - Non-positive price rows: 3690
